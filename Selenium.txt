@@ -1,0 +1,8 @@
+Selenium Webdriver details
+
+Packages-Nuget packages required:
+
+1.Selenium Webdriver
+2.Selenium Support
+3.Firefox driver doesn't require any package.It comes by default.
+4.Chrome and IE driver packages are required.
