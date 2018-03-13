@@ -1,0 +1,7 @@
+This is Selenium practise tutorial, where any one can create and refer to the tutorial's. and practise their session.
+
+Discuss yur issues here, and resolve them.
+At the end, "Practise makes man perfect".
+
+Ensure that Log4net is used for logging so that it can keep track of the logged messages in the log.
+All the test execution records can be logged.
